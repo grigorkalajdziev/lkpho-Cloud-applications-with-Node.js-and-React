@@ -15,5 +15,5 @@ console.log(methCall);
 
 methCall.then(
   (data) => console.log(data),
-  (err) => console.log("Error reading file") 
+  (err) => console.log("Error reading file Test") 
 );
